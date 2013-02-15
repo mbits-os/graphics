@@ -15,7 +15,7 @@ Graphics needs @gfx@, obviously, but also @jini@[3] for the C++ JNI bindings. Fo
 
 h2. Building
 
-For succesfull build, you'll need working environment, as described on [Android](http://developer.android.com/sdk/index.html "Android SDK") pages.
+For succesfull build, you'll need working environment, as described on "Android":http://developer.android.com/sdk/index.html pages.
 
 First make a common directory for the repos:
 
