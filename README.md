@@ -9,12 +9,20 @@ Requirements
 ============
 
 Graphics needs `gfx`, obviously, but also `jini` ([see](/mbits-os/jini))
-for the C++ JNI bindings.
+for the C++ JNI bindings. For building an Android library, you'll need
+Android developement environment. This includes:
+
+1. [Android SDK](http://developer.android.com/sdk/index.html)
+1. [Android NDK](http://developer.android.com/tools/sdk/ndk/index.html)
+1. One of:
+   * Eclipse with ADT, or
+   * Maven
 
 Building
 ========
 
-It's always recommended to use the latest version from GitHub.
+For succesfull build, you'll need working environment, as described
+on [Android](http://developer.android.com/sdk/index.html "Android SDK") pages.
 
 First make a common directory for the repos:
 
